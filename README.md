@@ -1,2 +1,2 @@
 # Campus-Mobile
-Material de referência sobre os webinar do Campus Mobile.
+Material de referência sobre os webinars do Campus Mobile.
