@@ -1,10 +1,8 @@
 # Webinars Campus Mobile 2021
 
-## Machine Learning - Inteligência artificial em busca de novas soluções
+## [Machine Learning - Inteligência artificial em busca de novas soluções](https://www.youtube.com/watch?v=eTE3dn4hty8)
 
 por Feliphe Galiza
-
-Bônus: Análise de Churn utilizando o Scikit-Learn
 
 ## Acesse o código e execute a demonstração da [aplicação de Machine Learning para Análise de Churn implementado no Google Colab através desse link](https://colab.research.google.com/github/beonclaro/Campus-Mobile/blob/master/Machine-Learning/churn_analysis_campus_mobile.ipynb)
 
